@@ -15,7 +15,7 @@ https://www.w3schools.com/
 https://gist.github.com/thomd/9220049
 
 Github Repository: https://github.com/norbu-s/Portfolio2021
-Project Url: https://norbu-s.github.io/Portfolio2021/Index.html
+Project Url: https://norbu-s.github.io/Portfolio2021/index.html
 
 Application Screenshot
 <img width="1440" alt="Screen Shot 2021-02-05 at 2 17 22 am" src="https://user-images.githubusercontent.com/73917485/106914244-edd6ea80-6758-11eb-96d4-e84faa6dc8ce.png">
