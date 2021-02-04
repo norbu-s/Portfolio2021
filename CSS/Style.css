@@ -3,10 +3,10 @@ body{
     font-size: 18px;
     font-family: "Georgia", "Times New Roman", Times, serif;
     line-height: 27px;
-    background: white;
     margin: 0;
     padding: 0;
-    background-image: url('/Users/norbu/MyPortfolio/Assets/Images/index.jpg');
+    background-image: url('/Users/norbu/Portfolio2021/Images/sky.jpg');
+    background-size: cover;
 
 }
 
@@ -53,13 +53,13 @@ body{
 
 .container{
 margin-top: 100px;;
-width: 750px;
+width: 650px;
 height: 80%;
 margin-left: 50px;
 margin-right: 400px;
 margin: 0. auto; 
 background-image: url('/Users/norbu/MyPortfolio/Assets/Images/index.jpg');
-
+background-size: cover;
 }
 
 h1{
@@ -76,6 +76,11 @@ style="margin: 0 40px 0;"
 
 p{
 color:white;
+}
+
+.interest{
+  margin-right:120px;
+  font-size:large;
 }
 
 footer{
@@ -102,7 +107,7 @@ footer{
   .right {
     width: 100%;
 
-/* @media screen and (max-width: 500px) {
+ @media screen and (max-width: 500px) {
     .topnav.responsive {position: relative;}
     .topnav.responsive .icon {
       position: absolute;
