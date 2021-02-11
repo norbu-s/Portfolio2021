@@ -6,7 +6,7 @@ body{
     background: grey;
     margin: 0;
     padding: 0;
-    background-image: url('/Users/norbu/Uni/MyPortfolio-2/docs/Assets/Images/pexels-photo-747964.jpeg');
+    background-image: url(../Images/pexels-photo-747964.jpeg);
 }
 
 .navbar-brand {
