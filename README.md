@@ -1,5 +1,6 @@
 # Portfolio
-Description.
+
+# Description.
 Project to create Portfolio with multiple pages and links.
 
 Project Goal.
@@ -9,15 +10,16 @@ Author.
 Name : Norbu Sherpa.
 
 Links for resource.
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside
-https://guides.github.com/
-https://www.w3schools.com/
-https://gist.github.com/thomd/9220049
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside
+* https://guides.github.com/
+* https://www.w3schools.com/
+* https://gist.github.com/thomd/9220049
 
-Github Repository: https://github.com/norbu-s/Portfolio2021
-Project Url: https://norbu-s.github.io/Portfolio2021/index.html
+* Github Repository: https://github.com/norbu-s/Portfolio2021
+* Project Url: https://norbu-s.github.io/Portfolio2021/index.html
 
 Application Screenshot
-<img width="1440" alt="Screen Shot 2021-02-05 at 2 17 22 am" src="https://user-images.githubusercontent.com/73917485/106914244-edd6ea80-6758-11eb-96d4-e84faa6dc8ce.png">
-<img width="1437" alt="Screen Shot 2021-02-05 at 2 17 15 am" src="https://user-images.githubusercontent.com/73917485/106914252-f0d1db00-6758-11eb-9104-9765a189e7ee.png">
-<img width="1440" alt="Screen Shot 2021-02-05 at 2 17 40 am" src="https://user-images.githubusercontent.com/73917485/106914271-f4fdf880-6758-11eb-81d0-0a7e49a0bca5.png">
+
+![Screen Shot 2021-02-11 at 3 07 02 pm](https://user-images.githubusercontent.com/73917485/107601481-fa88a080-6c7a-11eb-89ca-775f90fd2ee1.png)
+![Screen Shot 2021-02-11 at 3 08 46 pm](https://user-images.githubusercontent.com/73917485/107601526-155b1500-6c7b-11eb-9748-22074e8dbb30.png)
+![Screen Shot 2021-02-11 at 3 08 55 pm](https://user-images.githubusercontent.com/73917485/107601529-17bd6f00-6c7b-11eb-8817-2befd5ec3da1.png)
