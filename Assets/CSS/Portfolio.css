@@ -6,6 +6,7 @@ body {
     background-image: url(../Images/pexels-photo-1229861.jpeg);
 }
 
+
 .navbar-brand {
     position: fixed;
     top:0;
@@ -125,24 +126,24 @@ footer{
     bottom:0;
   }
 
-@media screen and (max-width: 600px) {
-        .topnav a:not(:first-child) {display: none;}
-        .topnav a.icon {
-        float: right;
-        display: block;
+  @media only screen and (max-width:800px) {
+    /* For tablets: */
+    .container {
+      width: 80%;
+      padding: 0;
     }
-}
-    
-@media screen and (max-width: 600px) {
-        .topnav.responsive {position: relative;}
-        .topnav.responsive .icon {
-        position: absolute;
-        right: 0;
-        top: 0;
-}
-
- @media screen and (max-width:768) {
-            .container{
-                width: 100%;
+    .right {
+      width: 100%;
     }
-}
+  }
+   /* Media Queries: Tablet Landscape */
+  @media screen and (max-width: 1060px) {
+    #container { width:67%; }
+    #navbar { width:30%; margin-left:3%;}  
+  }
+  
+  /* Media Queries: Tabled Portrait */
+  @media screen and (max-width: 768px) {
+    #container { width:100%; }
+    #navbar { width:100%; margin:0; border:none;}
+  }
