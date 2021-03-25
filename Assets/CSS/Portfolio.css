@@ -4,9 +4,7 @@ body {
     line-height: 27px;
     margin: 0;
     padding: 0;
-    /* background-color: black; */
     background-image: url(../Images/pexels-photo-1229861.jpeg);
-    /* background-image: url(../Images/pexels-photo-747964.jpeg); */
     background-size: cover;
     color: white;
 }
@@ -62,15 +60,6 @@ body {
     margin-left: 50px;
 }
 
-.Skill {
-    font-size: small;
-    position: relative;
-    right: 0;
-    top: 40px;
-    padding: 15px;
-    float: left
-}
-
 .row {
     margin-right: 50px;
     padding: 0;
@@ -113,20 +102,36 @@ body {
     font-size: larger;
 }
 
+h1 {
+    text-align: center;
+    font-size: 100px;
+    margin-left: 600px;
+}
 
-/* .row {
-    margin-right: 20px;
-    padding: 0;
-    overflow: auto;
-} */
+h2 {
+    text-align: center;
+    font-size: 50px;
+}
 
-.gallery {
-    padding-right: 50px;
-    margin-left: 50px;
-    margin-right: 150px;
-    margin-bottom: 20px;
-    width: 85%;
-    overflow: auto;
+.project {
+    padding: 40px;
+    margin: 20px;
+}
+
+.otaku {
+    margin-left: 400px;
+}
+
+.note {
+    margin-left: 400px;
+}
+
+.weather {
+    margin-left: 400px;
+}
+
+.entertain {
+    margin-left: 400px;
 }
 
 footer {
@@ -134,13 +139,13 @@ footer {
     color: grey;
     margin-top: 100px;
     padding: 10px;
-    font-size: 10px;
+    font-size: 17px;
     font-weight: bold;
     text-align: center;
     letter-spacing: 1px;
     width: 100%;
     position: fixed;
-    height: 25px;
+    left: 0;
     bottom: 0;
 }
 
@@ -160,7 +165,7 @@ footer {
 
 @media screen and (max-width: 1060px) {
     #container {
-        width: 67%;
+        width: 47%;
     }
     #navbar {
         width: 30%;
@@ -176,7 +181,7 @@ footer {
         width: 100%;
     }
     #navbar {
-        width: 100%;
+        width: 40%;
         margin: 0;
         border: none;
     }

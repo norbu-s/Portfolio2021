@@ -5,11 +5,8 @@ body {
     line-height: 27px;
     margin: 0;
     padding: 0;
-    background-color: black;
     background-image: url(../Images/pexels-photo-1229861.jpeg);
-    /* background-image: url(../Images/pexels-photo-747964.jpeg); */
     background-size: cover;
-    color: blueviolet;
 }
 
 .navbar {
