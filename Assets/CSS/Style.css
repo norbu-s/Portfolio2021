@@ -1,126 +1,163 @@
-body{
+body {
     font: white;
-    font-size: 18px;
-    font-family: "Georgia", "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-family: 'Indie Flower', cursive;
     line-height: 27px;
     margin: 0;
     padding: 0;
-    background-image: url(../Images/pexels-photo-747964.jpeg);
+    background-color: black;
+    background-image: url(../Images/pexels-photo-1229861.jpeg);
+    /* background-image: url(../Images/pexels-photo-747964.jpeg); */
     background-size: cover;
+    color: blueviolet;
+}
 
+.navbar {
+    position: relative;
 }
 
 .navbar-brand {
-  position: fixed;
-  top:0;
-  left:0;
-  color:black;
-  font-size: xx-large;
-  font-weight: bold;
+    position: fixed;
+    top: 0;
+    left: 0;
+    color: black;
+    font-size: xx-large;
+    font-weight: bold;
 }
 
 .topnav {
-  position:fixed;
-  right:0;
-  top:0;
-  overflow: hidden;
-  background-color: #333;
-  margin-left: 900px;
+    position: fixed;
+    right: 0;
+    top: 0;
+    overflow: hidden;
+    background-color: #333;
+    margin-left: 900px;
 }
 
 .topnav a {
-  float: right;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
 }
 
 .topnav a:hover {
-  background-color: #ddd;
-  color: black;
+    background-color: #ddd;
+    color: black;
 }
 
 .topnav a.active {
-  color: white;
+    color: white;
 }
 
 .topnav .icon {
-  display: none;
+    display: none;
 }
 
-.container{
-margin-top: 100px;;
-width: 650px;
-height: 80%;
-margin-left: 50px;
-margin-right: 400px;
-margin: 0. auto; 
-background-image: url(../Images/index.jpg);
-background-size: cover;
+.grid-container {
+    display: grid;
+    grid-gap: 10px;
+    padding: 10px;
+    width: 850px;
 }
 
-h1{
-font-size: 40px;
-color:rgb(55, 211, 203);
+.interests {
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 20px;
+    grid-column: 3;
+    grid-row: 1 / span 2;
+    width: 50px;
 }
 
-.sidebar{
-width:"300";
-height:"300";
-position:"left";
-margin: 0 40px 0;
+h1 {
+    font-size: 40px;
+    color: white;
 }
 
-p{
-color:white;
+.sidebar {
+    width: "300";
+    height: "300";
+    position: "left";
+    margin: 0 40px 0;
 }
 
-.interest{
-  margin-right:120px;
-  font-size:20px;
+p {
+    font-size: larger;
+    color: white;
 }
 
-footer{
-  background:#333;
-  color: grey;
-  margin-top:100px;
-  padding:10px;
-  font-size: 17px;
-  font-weight: bold;
-  text-align: center;
-  letter-spacing: 1px;
-  width: 100%;
-  position:fixed;
-  left:0;
-  bottom:0;
+.interests {
+    padding: 20px;
+    margin-right: 120px;
+    font-size: 20px;
+    float: left;
+    color: white;
+    float: right;
+}
+
+footer {
+    background: #333;
+    color: grey;
+    margin-top: 100px;
+    padding: 10px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 1px;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
 }
 
 @media only screen and (max-width:800px) {
-  /* For tablets: */
-  .container {
-    width: 80%;
-    padding: 0;
-  }
-  .right {
-    width: 100%;
-  }
+    /* For tablets: */
+    .container {
+        width: 80%;
+        padding: 0;
+    }
+    .right {
+        width: 100%;
+    }
 }
- /* Media Queries: Tablet Landscape */
+
+
+/* Media Queries: Tablet Landscape */
+
 @media screen and (max-width: 1060px) {
-  #container { width:67%; }
-  #navbar { width:30%; margin-left:3%;}  
+    #container {
+        width: 67%;
+    }
+    #navbar {
+        width: 30%;
+        margin-left: 3%;
+    }
 }
+
 
 /* Media Queries: Tabled Portrait */
+
 @media screen and (max-width: 768px) {
-  #container { width:100%; }
-  #navbar { width:100%; margin:0; border:none;}
+    #container {
+        width: 100%;
+    }
+    #navbar {
+        width: 100%;
+        margin: 0;
+        border: none;
+    }
 }
 
 @media screen and (max-width: 1060px) {
-  #interest { width:67%; }
-  #interest { width:30%; margin-left:3%;}  
+    #interest {
+        width: 67%;
+    }
+    #interest {
+        width: 30%;
+        margin-left: 3%;
+    }
 }
