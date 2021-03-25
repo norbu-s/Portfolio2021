@@ -20,6 +20,6 @@ Links for resource.
 
 Application Screenshot
 
-![Screen Shot 2021-02-11 at 3 07 02 pm](https://user-images.githubusercontent.com/73917485/107601481-fa88a080-6c7a-11eb-89ca-775f90fd2ee1.png)
-![Screen Shot 2021-02-11 at 3 08 46 pm](https://user-images.githubusercontent.com/73917485/107601526-155b1500-6c7b-11eb-9748-22074e8dbb30.png)
-![Screen Shot 2021-02-11 at 3 08 55 pm](https://user-images.githubusercontent.com/73917485/107601529-17bd6f00-6c7b-11eb-8817-2befd5ec3da1.png)
+<img width="1440" alt="Screen Shot 2021-03-26 at 1 11 09 am" src="https://user-images.githubusercontent.com/73917485/112487137-9b1cc500-8dd0-11eb-8298-a52212a2c00d.png">
+<img width="1440" alt="Screen Shot 2021-03-26 at 1 11 24 am" src="https://user-images.githubusercontent.com/73917485/112487166-9fe17900-8dd0-11eb-9b2c-a9b3b331a80e.png">
+<img width="1440" alt="Screen Shot 2021-03-26 at 1 11 57 am" src="https://user-images.githubusercontent.com/73917485/112487176-a1ab3c80-8dd0-11eb-891f-7fd307212a24.png">
